@@ -40,6 +40,17 @@ function Home() {
                     <button type="submit">Subscribe</button>
                 </form>
             </div>
+            <div className="partners">
+                <h2>Partners</h2>
+                <div>
+                    <a href="https://rockagainsttrafficking.org/"><img src={homeimgs[4]} alt="Rock Against Trafficking" /></a>
+                    <p>We are a proud partner with Rock Against Trafficking to stop the suffering of modern slavery and child sex exploitation.</p>
+                </div>
+                <div>
+                    <a href="https://www.fredguitar.com/en/"><img src={homeimgs[5]} alt="Fred's Guitar Parts" /></a>
+                    <p>We are partners with Fred’s Guitar Parts to help with distribution of our products in Europe.</p>
+                </div>
+            </div>
         </div>
     );
 }
