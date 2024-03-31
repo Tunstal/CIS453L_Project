@@ -11,7 +11,7 @@ This project took the website [Apollo Music Parts](https://www.apollomusicparts.
 ## Installation
 
 Install the dependencies
-### npm install
+### `npm install`
 
 Run the project
-### npm start
+### `npm start`
